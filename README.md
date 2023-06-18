@@ -15,4 +15,5 @@ Scanner UI DLL         |  Printer UI DLL
 :-------------------------:|:-------------------------:
 ![](https://github.com/Damien-OLLIER/Thyssenkrupp-DLL/blob/main/ScannerMainInterfaceCommented.jpg)  |  ![](https://github.com/Damien-OLLIER/Thyssenkrupp-DLL/blob/main/PrinterMainInterface.png)
 
+There is no code available because it is confidential !
 
