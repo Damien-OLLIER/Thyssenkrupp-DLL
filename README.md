@@ -11,3 +11,7 @@ receive in order to process it.
 
 The point was to create reusable functionalities and two user interfaces as visible here:
 
+Scanner UI DLL         |  Printer UI DLL  
+:-------------------------:|:-------------------------:
+![](https://github.com/Damien-OLLIER/Thyssenkrupp-DLL/blob/main/ScannerMainInterfaceCommented.jpg)  |  ![](https://github.com/Damien-OLLIER/SHES/blob/master/SHES/1687106720027.jpg)
+
